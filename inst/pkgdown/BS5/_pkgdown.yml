@@ -1,6 +1,8 @@
 authors:
   Bart Rogiers:
     href: https://rogiersbart.github.io
+  SCK CEN:
+    href: https://www.sckcen.be
 navbar:
   components:
     home:
