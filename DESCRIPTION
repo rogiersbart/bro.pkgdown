@@ -1,0 +1,19 @@
+Package: bro.pkgdown
+Type: Package
+Title: My personal {pkgdown} template
+Version: 0.0.0.9000
+Authors@R: 
+    person(
+        given = "Bart",
+        family = "Rogiers",
+        email = "rogiers.bart@gmail.com",
+        role = c("cre", "aut"),
+        comment = c(
+          ORCID = "0000-0002-8836-0988",
+          url = "<https://rogiersbart.github.io>"
+        )
+    )
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2

@@ -1,0 +1,24 @@
+authors:
+  Bart Rogiers:
+    href: https://rogiersbart.github.io
+navbar:
+  components:
+    home:
+      icon: fa-home fa-lg
+      href: index.html
+  structure:
+    left:  [home, intro, articles, tutorials, reference, news]
+    right: []
+template:
+  light-switch: true
+  theme: arrow-light
+  theme-dark: arrow-dark
+  bslib:
+    base_font: {google: "Fira Sans"}
+    heading_font: {google: "Fira Mono"}
+    code_font: {google: "Fira Code"}
+    bg: "#fff"
+    fg: "#333"
+    primary: "#337ab7"
+    navbar-bg: "#f8f8f8"
+    pre-bg: "#f8f8f8 !important"
