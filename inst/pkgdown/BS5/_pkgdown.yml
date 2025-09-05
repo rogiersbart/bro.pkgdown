@@ -8,6 +8,7 @@ navbar:
     home:
       icon: fa-home fa-lg
       href: index.html
+      aria-label: Go to home.
   structure:
     left:  [home, intro, articles, tutorials, reference, news]
     right: []
